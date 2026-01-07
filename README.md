@@ -1,6 +1,6 @@
 I love Anki
 
-[Click here to download the Italian Audio Anki Deck ](https://github.com/svenelyes/svenelyesanki/releases/latest/download/Italiano_Conjugation_With_Audio.apkg)
+[Click here to download the Italian Audio Anki Deck ](https://github.com/svenelyes/ankisvenelyes/releases/latest/download/Italiano_Conjugation_With_Audio.apkg)
 All kind of code helping me make it eaiser
 
 TTS allows to generate Audio Files for Ultimate Geography Deck
